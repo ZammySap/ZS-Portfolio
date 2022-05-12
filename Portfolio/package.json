@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@popperjs/core": "^2.11.5",
+    "locomotive-scroll": "^4.1.4"
+  }
+}
